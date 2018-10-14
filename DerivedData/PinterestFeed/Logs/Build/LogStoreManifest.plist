@@ -5,6 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3AC06AA1-467E-47FC-839D-28000BAD7AC1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3AC06AA1-467E-47FC-839D-28000BAD7AC1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PinterestFeed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PinterestFeed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build PinterestFeed</string>
+			<key>timeStartedRecording</key>
+			<real>561046732.32766604</real>
+			<key>timeStoppedRecording</key>
+			<real>561046732.40908206</real>
+			<key>title</key>
+			<string>Build PinterestFeed</string>
+			<key>uniqueIdentifier</key>
+			<string>3AC06AA1-467E-47FC-839D-28000BAD7AC1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

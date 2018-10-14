@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "06cbd8fc0600248d69e96b635d1c1173"
+build_time: [1539422369, 511718000]
+inputs:
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/Networking/Endpoint.swift": [1539172375, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/ViewModels/ViewModel.swift": [1539357721, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/Views/PinterestLayout.swift": [1538985975, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/Networking/UnplashImages.swift": [1539159603, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/ViewController.swift": [1539367487, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/Networking/UnsplashClient.swift": [1539172375, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/Views/PhotoCell.swift": [1538981276, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/Networking/APIClient.swift": [1539159603, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/AppDelegate.swift": [1538933801, 0]
+  "/Users/gbs/Xcode/PinterestFeed/PinterestFeed/DetailsViewController.swift": !dirty [1539367486, 0]
